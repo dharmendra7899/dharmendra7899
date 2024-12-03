@@ -16,6 +16,11 @@ a passionate Flutter developer on a mission to create beautiful and Cross-Platfo
 
 **Tools & Technology:**  Goolge Maps, Payment Gateway, Ui Design
 
+
+**🎓 Education**
+**B.Tech** in Computer Science & Engineering]
+**AKTU (Dr. A.P.J. Abdul Kalam Technical University)**, 2020
+
 **💼 Professional Experience:**
 
 I’ve contributed to and led the development of multiple impactful projects, including:
