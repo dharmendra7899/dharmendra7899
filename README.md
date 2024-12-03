@@ -7,10 +7,15 @@ With 3 years of experience, I specialize in designing and developing innovative,
 **🛠️ Skills**
 
 **Languages:** Java, Kotlin, Dart
+
 **Frameworks:** Flutter
+
 **State Management::** Provider, Bloc, GetX
+
 **Architecture Patterns::** MVVM, MVC
+
 **Tools & Platforms::** Firebase, GitHub
+
 **💼 Professional Experience:**
 
 I’ve contributed to and led the development of multiple impactful projects, including:
@@ -37,7 +42,9 @@ Collaborate on projects that challenge me and push boundaries
 **🎵 Hobbies**
 
 **🌍 Traveling:** Exploring new places and cultures inspires my creativity and problem-solving skills.
+
 **🎶 Listening to Music:** Music fuels my productivity and keeps me motivated.
+
 **📬 Let’s Connect!**
 
 - [💼 LinkedIn](https://www.linkedin.com/in/dharmendra-kumar-flutter-developer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
