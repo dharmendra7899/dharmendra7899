@@ -4,13 +4,15 @@
 
 With 3 years of experience, I specialize in designing and developing innovative, user-centric mobile applications that work seamlessly across platforms. My technical expertise includes:
 
+***🛠️ Skills***
+
 **Languages:** Java, Kotlin, Dart
 
 **Frameworks:** Flutter
 
 **State Management::** Provider, Bloc, GetX
 
-**Architecture Patterns::** MVVM,MVC
+**Architecture Patterns::** MVVM, MVC
 
 **Tools & Platforms::** Firebase, GitHub
 
@@ -30,17 +32,6 @@ I’ve contributed to and led the development of multiple impactful projects, in
 
 **🛒 Shopping Apps:** Enhanced online shopping through personalized recommendations and seamless navigation.
 
-***🛠️ Skills***
-**Programming Languages**
-
-
-
-**Frameworks & Libraries**
-
-
-
-
-**Tools & Platforms**
 
 
 **🌟 Why Work With Me?**
