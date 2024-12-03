@@ -54,7 +54,7 @@ Collaborate on projects that challenge me and push boundaries
 **📬 Let’s Connect!**
 
 - [💼 LinkedIn](https://linkedin.com/in/YourLinkedInProfile)
-- [📷 Instagram]([https://instagram.com/YourInstagramProfile](https://www.instagram.com/mr_dharmendr06/?igsh=cTk1bmtrZWZrMzg1)
+- [📷 Instagram](https://www.instagram.com/mr_dharmendr06/?igsh=cTk1bmtrZWZrMzg1)
 - [✉️ Email Me](mailto:dharm.dk1999@gmail.com)
 - 
 
