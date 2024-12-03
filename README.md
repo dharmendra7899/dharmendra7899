@@ -4,15 +4,17 @@ a passionate Flutter developer on a mission to create beautiful and Cross-Platfo
 
 **🛠️ Skills**
 
-*Languages:* Java, Kotlin, Dart
+**Languages:**  Java, Kotlin, Dart
 
-*Frameworks:* Flutter
+**Frameworks:**  Android Flutter
 
-*State Management:* Provider, Bloc, GetX
+**State Management:**  Provider, Bloc, GetX
 
-*Architecture Patterns:* MVVM, MVC
+**Backend and Cloud Services:**  Firebase, REST APIs, WebSocket
 
-*Tools & Platforms:* Firebase, GitHub
+**Architecture Patterns:**  MVVM, MVC
+
+**Tools & Technology:**  Goolge Maps, Payment Gateway, Ui Design
 
 **💼 Professional Experience:**
 
