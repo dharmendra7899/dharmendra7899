@@ -5,7 +5,8 @@ a passionate Flutter developer on a mission to create beautiful and Cross-Platfo
 
 **🎓 Education**
 
-**B.Tech** *in Computer Science & Engineering* 
+**B.Tech** *in Computer Science & Engineering** 
+
 **AKTU (Dr. A.P.J. Abdul Kalam Technical University)**, 2020
 
 
