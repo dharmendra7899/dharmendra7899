@@ -53,7 +53,7 @@ Collaborate on projects that challenge me and push boundaries
 
 **📬 Let’s Connect!**
 
-- [💼 LinkedIn](https://linkedin.com/in/YourLinkedInProfile)
+- [💼 LinkedIn](https://www.linkedin.com/in/dharmendra-kumar-flutter-developer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [📷 Instagram](https://www.instagram.com/mr_dharmendr06/?igsh=cTk1bmtrZWZrMzg1)
 - [✉️ Email Me](mailto:dharm.dk1999@gmail.com)
 - 
