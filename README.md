@@ -4,7 +4,7 @@
 
 With 3 years of experience, I specialize in designing and developing innovative, user-centric mobile applications that work seamlessly across platforms. My technical expertise includes:
 
-###**🛠️ Skills***
+**🛠️ Skills**
 
 **Languages:** Java, Kotlin, Dart
 
@@ -54,9 +54,7 @@ Collaborate on projects that challenge me and push boundaries
 **📬 Let’s Connect!**
 
 - [💼 LinkedIn](https://linkedin.com/in/YourLinkedInProfile)
-- 
-- [📷 Instagram](https://instagram.com/YourInstagramProfile)
-- 
+- [📷 Instagram]([https://instagram.com/YourInstagramProfile](https://www.instagram.com/mr_dharmendr06/?igsh=cTk1bmtrZWZrMzg1)
 - [✉️ Email Me](mailto:dharm.dk1999@gmail.com)
 - 
 
