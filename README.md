@@ -20,12 +20,12 @@ a passionate Flutter developer on a mission to create beautiful and Cross-Platfo
 
 I’ve contributed to and led the development of multiple impactful projects, including:
 
-**🛒 E-Commerce Apps:** Streamlined shopping experiences with intuitive interfaces and secure payment gateways.  
-**🛍️ Grocery Apps:** Built apps to simplify day-to-day grocery shopping with real-time tracking and user personalization.  
-**🌍 Visa VFS App:** Facilitated smooth visa application processes with robust functionality.  
-**🚚 Tracking Apps:** Developed efficient and accurate tracking solutions for logistics and deliveries.  
-**🏫 School Management Apps:** Created tools for educational institutions to manage data, attendance, and communication.  
-**🛒 Shopping Apps:** Enhanced online shopping through personalized recommendations and seamless navigation.
+**🛒 E-Commerce Apps:**  Streamlined shopping experiences with intuitive interfaces and secure payment gateways.  
+**🛍️ Grocery Apps:**  Built apps to simplify day-to-day grocery shopping with real-time tracking and user personalization.  
+**🌍 Visa VFS App:**  Facilitated smooth visa application processes with robust functionality.  
+**🚚 Tracking Apps:**  Developed efficient and accurate tracking solutions for logistics and deliveries.  
+**🏫 School Management Apps:**  Created tools for educational institutions to manage data, attendance, and communication.  
+**🛒 Shopping Apps:**  Enhanced online shopping through personalized recommendations and seamless navigation.
 
 
 **🌟 Why Work With Me?**
