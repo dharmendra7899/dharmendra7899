@@ -14,7 +14,7 @@ a passionate Flutter developer on a mission to create beautiful and Cross-Platfo
 
 **Languages:**  Java, Kotlin, Dart
 
-**Frameworks:**  Android Flutter
+**Frameworks:**  Android, Flutter
 
 **State Management:**  Provider, Bloc, GetX
 
