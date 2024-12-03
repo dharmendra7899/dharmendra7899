@@ -6,15 +6,15 @@ With 3 years of experience, I specialize in designing and developing innovative,
 
 **🛠️ Skills**
 
-**Languages:** Java, Kotlin, Dart
+*Languages:* Java, Kotlin, Dart
 
-**Frameworks:** Flutter
+*Frameworks:* Flutter
 
-**State Management::** Provider, Bloc, GetX
+*State Management:* Provider, Bloc, GetX
 
-**Architecture Patterns::** MVVM, MVC
+*Architecture Patterns:* MVVM, MVC
 
-**Tools & Platforms::** Firebase, GitHub
+*Tools & Platforms:* Firebase, GitHub
 
 **💼 Professional Experience:**
 
