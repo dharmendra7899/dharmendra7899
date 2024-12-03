@@ -2,6 +2,13 @@
 
 a passionate Flutter developer on a mission to create beautiful and Cross-Platform Mobile App Developer With 3 years of experience, I specialize in designing and developing innovative, user-centric mobile applications that work seamlessly across platforms. My technical expertise includes:
 
+
+**🎓 Education**
+
+**B.Tech** in Computer Science & Engineering]
+
+**AKTU (Dr. A.P.J. Abdul Kalam Technical University)**, 2020
+
 **🛠️ Skills**
 
 **Languages:**  Java, Kotlin, Dart
@@ -17,9 +24,7 @@ a passionate Flutter developer on a mission to create beautiful and Cross-Platfo
 **Tools & Technology:**  Goolge Maps, Payment Gateway, Ui Design
 
 
-**🎓 Education**
-**B.Tech** in Computer Science & Engineering]
-**AKTU (Dr. A.P.J. Abdul Kalam Technical University)**, 2020
+
 
 **💼 Professional Experience:**
 
