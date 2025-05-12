@@ -37,7 +37,11 @@ I’ve contributed to and led the development of multiple impactful projects, in
 **🚚 Tracking Apps:**  Developed efficient and accurate tracking solutions for logistics and deliveries.  
 **🏫 School Management Apps:**  Created tools for educational institutions to manage data, attendance, and communication.  
 **🛒 Shopping Apps:**  Enhanced online shopping through personalized recommendations and seamless navigation.
-
+**🧠 Mister Mock:**  A comprehensive quiz app designed for NDA preparation with curated questions and mock tests.
+**💼 GISZ:**  A career platform connecting job seekers with job providers through a user-friendly interface.
+**📍 TrackuGo:**  A GPS-based app offering real-time location tracking, parking zone management, vehicle tracking, and a "Split Kro" module for shared rides.
+**🚆 PIPOnet:**  A multi-functional app similar to "Where is My Train" and OTT platforms, providing train tracking and entertainment features.
+**🚑 Sanjeevani Plus:**  An ambulance booking system catering to both drivers and users, ensuring quick response and smooth communication.
 
 **🌟 Why Work With Me?**
 
