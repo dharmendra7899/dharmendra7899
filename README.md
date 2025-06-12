@@ -66,5 +66,10 @@ Collaborate on projects that challenge me and push boundaries
 - [📷 Instagram](https://www.instagram.com/mr_dharmendr06/?igsh=cTk1bmtrZWZrMzg1)
 - [✉️ Email Me](mailto:dharm.dk1999@gmail.com)
 
+## 📊 GitHub Stats
+
+![Dharmendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharmendra7899&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra7899&layout=compact&theme=radical)
+
 
 🙏 Thanks for visiting my GitHub profile! Let's code something amazing together! 🚀
