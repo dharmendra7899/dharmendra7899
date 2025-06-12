@@ -91,7 +91,7 @@ Collaborate on projects that challenge me and push boundaries
 
 
 <td align="center" valign="top">
-  
+      <!-- GitHub Stats -->
       <div style="background-color:white; padding:10px; border:2px solid #e0e0e0; border-radius:8px;">
         <img src="https://github-readme-stats.vercel.app/api?username=dharmendra7899&show_icons=true&theme=default" height="165" />
         <br/>
