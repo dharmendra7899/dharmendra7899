@@ -90,17 +90,16 @@ Collaborate on projects that challenge me and push boundaries
 </p>
 
 
-## 📊 GitHub Stats
+<td align="center" valign="top">
+  
+      <div style="background-color:white; padding:10px; border:2px solid #e0e0e0; border-radius:8px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=dharmendra7899&show_icons=true&theme=default" height="165" />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra7899&layout=compact&theme=default" height="120" />
+      </div>
+    </td>
 
-<div align="center" style="background-color:white; padding:10px; border:2px solid #e0e0e0; border-radius:8px; width:fit-content;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharmendra7899&show_icons=true&theme=default" alt="Dharmendra's GitHub Stats"/>
-</div>
 
-<br/>
-
-<div align="center" style="background-color:white; padding:10px; border:2px solid #e0e0e0; border-radius:8px; width:fit-content;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra7899&layout=compact&theme=default" alt="Top Languages"/>
-</div>
 
 <br/>
 
