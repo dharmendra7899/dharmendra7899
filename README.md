@@ -31,6 +31,7 @@ a passionate Flutter developer on a mission to create beautiful and Cross-Platfo
 
 I’ve contributed to and led the development of multiple impactful projects, including:
 
+**🤖 Poca Healthcare:** A chatbot like ChatGPT enabling real-time patient-doctor conversations using WebSocket technology.
 **🛒 E-Commerce Apps:**  Streamlined shopping experiences with intuitive interfaces and secure payment gateways.  
 **🛍️ Grocery Apps:**  Built apps to simplify day-to-day grocery shopping with real-time tracking and user personalization.  
 **🌍 Visa VFS App:**  Facilitated smooth visa application processes with robust functionality.  
