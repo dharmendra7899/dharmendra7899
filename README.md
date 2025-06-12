@@ -60,6 +60,19 @@ Collaborate on projects that challenge me and push boundaries
 
 **🎶 Listening to Music:** Music fuels my productivity and keeps me motivated.
 
+
+## 🛠️ Technologies & Tools
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
 **📬 Let’s Connect!**
 
 - [💼 LinkedIn](https://www.linkedin.com/in/dharmendra-kumar-flutter-developer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
@@ -70,6 +83,10 @@ Collaborate on projects that challenge me and push boundaries
 
 ![Dharmendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharmendra7899&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra7899&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharmendra7899&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dharmendra7899&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 🙏 Thanks for visiting my GitHub profile! Let's code something amazing together! 🚀
