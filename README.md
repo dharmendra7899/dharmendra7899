@@ -61,18 +61,6 @@ Collaborate on projects that challenge me and push boundaries
 **🎶 Listening to Music:** Music fuels my productivity and keeps me motivated.
 
 
-## 🛠️ Technologies & Tools
-
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-
 **📬 Let’s Connect!**
 
 - [💼 LinkedIn](https://www.linkedin.com/in/dharmendra-kumar-flutter-developer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
@@ -82,25 +70,44 @@ Collaborate on projects that challenge me and push boundaries
 
 ## 🛠️ Languages and Tools:
 
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+## 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/jetpack-compose/jetpack-compose.png" height="40" alt="jetpack compose" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native" />
+</p>
 
 
-![Dharmendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharmendra7899&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra7899&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+<div align="center" style="background-color:white; padding:10px; border:2px solid #e0e0e0; border-radius:8px; width:fit-content;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharmendra7899&show_icons=true&theme=default" alt="Dharmendra's GitHub Stats"/>
+</div>
+
+<br/>
+
+<div align="center" style="background-color:white; padding:10px; border:2px solid #e0e0e0; border-radius:8px; width:fit-content;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra7899&layout=compact&theme=default" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center" style="background-color:white; padding:10px; border:2px solid #e0e0e0; border-radius:8px; width:fit-content;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra7899&theme=default" alt="GitHub Streak"/>
+</div>
+
 
 
 🙏 Thanks for visiting my GitHub profile! Let's code something amazing together! 🚀
