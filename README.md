@@ -102,11 +102,15 @@ Collaborate on projects that challenge me and push boundaries
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra7899&layout=compact&theme=default" height="165" />
         </td>
       </tr>
+      <tr>
+        <td colspan="2" align="center">
+          <img src="https://streak-stats.demolab.com/?user=dharmendra7899&theme=default" alt="GitHub Streak"/>
+        </td>
+      </tr>
     </table>
-   
   </div>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra7899&theme=default" alt="GitHub Streak"/>
 </td>
+
 
 
 
