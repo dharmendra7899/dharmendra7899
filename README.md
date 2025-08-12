@@ -1,12 +1,14 @@
 *👋 Hello, I'm Dharmendra Kumar!*
 
 🚀 A passionate **Flutter & Native Android Developer** with 4+ years of experience, building **beautiful, high-performance, and cross-platform mobile applications.** I specialize in **user-centric design**, smooth performance, and clean architecture, ensuring apps deliver both value and great user experiences. 
+
 💡 Skilled in **state management** (GetX, Provider, Riverpod, BLoC) and **modern Android development** (Kotlin, Jetpack Compose, Hilt). I have published multiple apps on the **Google Play Store & App Store**, worked with **Firebase, REST APIs, real-time WebSockets**, and implemented **secure payment gateways**.
 
 🎯 My mission: Crafting mobile solutions that not only work seamlessly across platforms but also leave a lasting impression on users.
 
 
-**Experience Highlights**
+**Experience Highlights**  
+
 📱 Published 3+ native Android & Flutter apps on the **Google Play Store**.  
 🔹 Expertise in **cross-platform & native app development**.  
 🛠️ Worked on **real-time chat, map integrations**, and **custom UI/UX animations**.  
@@ -14,28 +16,26 @@
 
 
 **🛠️ Skills**  
+
 **Languages:**
 Java | Kotlin | Dart
-
 **Frameworks & Platforms:**
 Flutter | Android | Jetpack Compose
-
 **State Management:**
 GetX | Provider | Riverpod | BLoC
-
 **Backend & Cloud Services:**
 Firebase | REST API | WebSocket
-
 **Architecture Patterns:**
 MVVM | MVC
-
 **Tools & Technologies:**
 Google Maps | Payment Gateway Integration | Custom UI Design
 
 
-**🎓 Education**
+**🎓 Education**  
+
 **B.Tech in Computer Science & Engineering**
 Dr. A.P.J. Abdul Kalam Technical University (AKTU), 2020
+
 
 
 **💼 Key Projects & Achievements:**
