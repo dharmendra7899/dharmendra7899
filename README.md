@@ -8,7 +8,7 @@
 
 
 
-**Experience Highlights**  
+**💡 Experience Highlights**  
 
 📱 Published 3+ native Android & Flutter apps on the **Google Play Store**.  
 🔹 Expertise in **cross-platform & native app development**.  
