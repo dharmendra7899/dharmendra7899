@@ -1,10 +1,10 @@
 *👋 Hello, I'm Dharmendra Kumar!*
 
 🚀 A passionate **Flutter & Native Android Developer** with 4+ years of experience, building **beautiful, high-performance, and cross-platform mobile applications.** I specialize in **user-centric design**, smooth performance, and clean architecture, ensuring apps deliver both value and great user experiences. 
-
 💡 Skilled in **state management** (GetX, Provider, Riverpod, BLoC) and **modern Android development** (Kotlin, Jetpack Compose, Hilt). I have published multiple apps on the **Google Play Store & App Store**, worked with **Firebase, REST APIs, real-time WebSockets**, and implemented **secure payment gateways**.
 
 🎯 My mission: Crafting mobile solutions that not only work seamlessly across platforms but also leave a lasting impression on users.
+
 
 
 **Experience Highlights**  
@@ -13,6 +13,7 @@
 🔹 Expertise in **cross-platform & native app development**.  
 🛠️ Worked on **real-time chat, map integrations**, and **custom UI/UX animations**.  
 ⚡ Strong grasp of **MVVM, MVC**, and scalable app architecture.  
+
 
 
 **🛠️ Skills**  
@@ -31,6 +32,7 @@ MVVM | MVC
 Google Maps | Payment Gateway Integration | Custom UI Design
 
 
+
 **🎓 Education**  
 
 **B.Tech in Computer Science & Engineering**
@@ -42,7 +44,7 @@ Dr. A.P.J. Abdul Kalam Technical University (AKTU), 2020
 
 I’ve contributed to and led the development of multiple impactful projects, including:
 
-**📜 PolicyVault:** A secure digital vault for managing and storing insurance policies, offering reminders, document uploads, and easy sharing options.
+**📜 PolicyVault:** A secure digital vault for managing and storing insurance policies, offering reminders, document uploads, and easy sharing options.  
 **🤖 Poca Healthcare:** A chatbot like ChatGPT enabling real-time patient-doctor conversations using WebSocket technology.  
 **🛍️ Grocery Apps:**  Built apps to simplify day-to-day grocery shopping with real-time tracking and user personalization.  
 **🌍 Visa VFS App:**  Facilitated smooth visa application processes with robust functionality.  
