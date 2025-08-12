@@ -10,7 +10,7 @@
 
 **💡 Experience Highlights**  
 
-📱 Published 3+ native Android & Flutter apps on the **Google Play Store**.  
+📱  Published 6+ Flutter apps and 3 native Android apps on the **Google Play Store**.  
 🔹 Expertise in **cross-platform & native app development**.  
 🛠️ Worked on **real-time chat, map integrations**, and **custom UI/UX animations**.  
 ⚡ Strong grasp of **MVVM, MVC**, and scalable app architecture.  
