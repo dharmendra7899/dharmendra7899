@@ -1,38 +1,55 @@
 *👋 Hello, I'm Dharmendra Kumar!*
 
-a passionate Flutter developer on a mission to create beautiful and Cross-Platform Mobile App Developer With 4 years of experience, I specialize in designing and developing innovative, user-centric mobile applications that work seamlessly across platforms. My technical expertise includes:
+🚀 A passionate **Flutter & Native Android Developer** with 4+ years of experience, building **beautiful, high-performance, and cross-platform mobile applications.** I specialize in **user-centric design**, smooth performance, and clean architecture, ensuring apps deliver both value and great user experiences.
+💡 Skilled in **state management** (GetX, Provider, Riverpod, BLoC) and **modern Android development** (Kotlin, Jetpack Compose, Hilt). I have published multiple apps on the **Google Play Store & App Store**, worked with **Firebase, REST APIs, real-time WebSockets**, and implemented **secure payment gateways**.
+
+🎯 My mission: Crafting mobile solutions that not only work seamlessly across platforms but also leave a lasting impression on users.
+
+
+**Experience Highlights**
+📱 Published 3+ native Android & Flutter apps on the **Google Play Store**.
+🔹 Expertise in **cross-platform & native app development**.
+🛠️ Worked on **real-time chat, map integrations**, and **custom UI/UX animations**.
+⚡ Strong grasp of **MVVM, MVC**, and scalable app architecture.
+
+
+**🛠️ Skills**
+**Languages:**
+Java | Kotlin | Dart
+
+**Frameworks & Platforms:**
+Flutter | Android | Jetpack Compose
+
+**State Management:**
+GetX | Provider | Riverpod | BLoC
+
+**Backend & Cloud Services:**
+Firebase | REST API | WebSocket
+
+**Architecture Patterns:**
+MVVM | MVC
+
+**Tools & Technologies:**
+Google Maps | Payment Gateway Integration | Custom UI Design
+
+
+**🎓 Education**
+**B.Tech in Computer Science & Engineering**
+Dr. A.P.J. Abdul Kalam Technical University (AKTU), 2020
 
 
 **🎓 Education**
 
 **B.Tech** *in Computer Science & Engineering*
-
 **AKTU (Dr. A.P.J. Abdul Kalam Technical University)**, 2020
 
 
-**🛠️ Skills**
-
-**Languages:**  Java, Kotlin, Dart
-
-**Frameworks:**  Android, Flutter
-
-**State Management:**  Provider, Bloc, GetX
-
-**Backend and Cloud Services:**  Firebase, REST APIs, WebSocket
-
-**Architecture Patterns:**  MVVM, MVC
-
-**Tools & Technology:**  Goolge Maps, Payment Gateway, Ui Design
-
-
-
-
-**💼 Professional Experience:**
+**💼 Key Projects & Achievements:**
 
 I’ve contributed to and led the development of multiple impactful projects, including:
 
+**📜 PolicyVault:** A secure digital vault for managing and storing insurance policies, offering reminders, document uploads, and easy sharing options.
 **🤖 Poca Healthcare:** A chatbot like ChatGPT enabling real-time patient-doctor conversations using WebSocket technology.  
-**🛒 E-Commerce Apps:**  Streamlined shopping experiences with intuitive interfaces and secure payment gateways.  
 **🛍️ Grocery Apps:**  Built apps to simplify day-to-day grocery shopping with real-time tracking and user personalization.  
 **🌍 Visa VFS App:**  Facilitated smooth visa application processes with robust functionality.  
 **🚚 Tracking Apps:**  Developed efficient and accurate tracking solutions for logistics and deliveries.  
@@ -43,6 +60,8 @@ I’ve contributed to and led the development of multiple impactful projects, in
 **📍 TrackuGo:**  A GPS-based app offering real-time location tracking, parking zone management, vehicle tracking, and a "Split Kro" module for shared rides.  
 **🚆 PIPOnet:**  A multi-functional app similar to "Where is My Train" and OTT platforms, providing train tracking and entertainment features.  
 **🚑 Sanjeevani Plus:**  An ambulance booking system catering to both drivers and users, ensuring quick response and smooth communication.  
+**🚗 Mechmiles:** A vehicle maintenance and service booking platform with real-time tracking, service history, and mechanic search features.
+
 
 **🌟 Why Work With Me?**
 
