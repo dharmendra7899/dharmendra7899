@@ -1,6 +1,7 @@
 *👋 Hello, I'm Dharmendra Kumar!*
 
-🚀 A passionate **Flutter & Native Android Developer** with 4+ years of experience, building **beautiful, high-performance, and cross-platform mobile applications.** I specialize in **user-centric design**, smooth performance, and clean architecture, ensuring apps deliver both value and great user experiences. 
+🚀 A passionate **Flutter & Native Android Developer** with 4+ years of experience, building **beautiful, high-performance, and cross-platform mobile applications.** I specialize in **user-centric design**, smooth performance, and clean architecture, ensuring apps deliver both value and great user experiences.
+
 💡 Skilled in **state management** (GetX, Provider, Riverpod, BLoC) and **modern Android development** (Kotlin, Jetpack Compose, Hilt). I have published multiple apps on the **Google Play Store & App Store**, worked with **Firebase, REST APIs, real-time WebSockets**, and implemented **secure payment gateways**.
 
 🎯 My mission: Crafting mobile solutions that not only work seamlessly across platforms but also leave a lasting impression on users.
