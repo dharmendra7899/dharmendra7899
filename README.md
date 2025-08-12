@@ -1,19 +1,19 @@
 *👋 Hello, I'm Dharmendra Kumar!*
 
-🚀 A passionate **Flutter & Native Android Developer** with 4+ years of experience, building **beautiful, high-performance, and cross-platform mobile applications.** I specialize in **user-centric design**, smooth performance, and clean architecture, ensuring apps deliver both value and great user experiences.
+🚀 A passionate **Flutter & Native Android Developer** with 4+ years of experience, building **beautiful, high-performance, and cross-platform mobile applications.** I specialize in **user-centric design**, smooth performance, and clean architecture, ensuring apps deliver both value and great user experiences. 
 💡 Skilled in **state management** (GetX, Provider, Riverpod, BLoC) and **modern Android development** (Kotlin, Jetpack Compose, Hilt). I have published multiple apps on the **Google Play Store & App Store**, worked with **Firebase, REST APIs, real-time WebSockets**, and implemented **secure payment gateways**.
 
 🎯 My mission: Crafting mobile solutions that not only work seamlessly across platforms but also leave a lasting impression on users.
 
 
 **Experience Highlights**
-📱 Published 3+ native Android & Flutter apps on the **Google Play Store**.
-🔹 Expertise in **cross-platform & native app development**.
-🛠️ Worked on **real-time chat, map integrations**, and **custom UI/UX animations**.
-⚡ Strong grasp of **MVVM, MVC**, and scalable app architecture.
+📱 Published 3+ native Android & Flutter apps on the **Google Play Store**.  
+🔹 Expertise in **cross-platform & native app development**.  
+🛠️ Worked on **real-time chat, map integrations**, and **custom UI/UX animations**.  
+⚡ Strong grasp of **MVVM, MVC**, and scalable app architecture.  
 
 
-**🛠️ Skills**
+**🛠️ Skills**  
 **Languages:**
 Java | Kotlin | Dart
 
@@ -36,12 +36,6 @@ Google Maps | Payment Gateway Integration | Custom UI Design
 **🎓 Education**
 **B.Tech in Computer Science & Engineering**
 Dr. A.P.J. Abdul Kalam Technical University (AKTU), 2020
-
-
-**🎓 Education**
-
-**B.Tech** *in Computer Science & Engineering*
-**AKTU (Dr. A.P.J. Abdul Kalam Technical University)**, 2020
 
 
 **💼 Key Projects & Achievements:**
