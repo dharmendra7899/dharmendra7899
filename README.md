@@ -20,17 +20,17 @@
 **🛠️ Skills**  
 
 **Languages:**
-Java | Kotlin | Dart
+Java | Kotlin | Dart  
 **Frameworks & Platforms:**
-Flutter | Android | Jetpack Compose
+Flutter | Android | Jetpack Compose  
 **State Management:**
-GetX | Provider | Riverpod | BLoC
+GetX | Provider | Riverpod | BLoC  
 **Backend & Cloud Services:**
-Firebase | REST API | WebSocket
+Firebase | REST API | WebSocket  
 **Architecture Patterns:**
-MVVM | MVC
+MVVM | MVC  
 **Tools & Technologies:**
-Google Maps | Payment Gateway Integration | Custom UI Design
+Google Maps | Payment Gateway Integration | Custom UI Design  
 
 
 
